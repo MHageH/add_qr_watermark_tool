@@ -25,3 +25,10 @@ Before running the script, ensure the required modules are installed using the f
 
 ```bash
 pip install reportlab pdfrw
+```
+## Usage
+Open a terminal (bash) and cd to ```add_qr_watermark.py```
+```
+chmod +x batch_process.sh
+./batch_process.sh
+```
